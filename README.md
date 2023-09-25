@@ -1,6 +1,6 @@
 # Password-Manager
 
-The provided code appears to be a JavaScript code snippet for a simple password manager web application. Let's break down the code and explain its functionality step by step:
+Explanation of JavaScript code snippet for a simple password manager web application. Let's break down the code and explain its functionality step by step:
 
 1. `maskPassword` Function:
    - This function takes a password as input and returns a string with the same number of asterisks as the length of the password. The purpose is to mask the password when displaying it in the user interface.
